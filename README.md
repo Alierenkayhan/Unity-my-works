@@ -2,11 +2,19 @@
     
 # Unity-my-works
 
-
+<div align="center">
+    
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Unity-my-works)
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Unity-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Unity-my-works)
 [![GitHub license:](https://img.shields.io/github/license/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/license/Alierenkayhan/Unity-my-works)
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Unity-my-works/total)
+![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Unity-my-works)
+![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Unity-my-works)
+![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Unity-my-works?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Unity-my-works)
+    
+</div>
 
 
 
