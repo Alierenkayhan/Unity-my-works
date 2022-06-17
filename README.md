@@ -10,7 +10,7 @@
 
 
 
-This repository is for my lesson homework. Some of them need some settings because of version of unity. Also I made some of them not for my lesson but for learning.
+This repository is for my lesson homework. Some of them need some settings because of version of unity. Also I made some of them not for my lesson but for learning. In some of them, there are documents about the project.
  
  
 
