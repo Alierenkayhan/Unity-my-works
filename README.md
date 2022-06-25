@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="1100" height = "400" /></p>
+<img align="left" src="https://github.com/Alierenkayhan/Alierenkayhan.github.io/blob/master/img/unity.jpg" alt="Alierenkayhan" width ="100%" height = "auto" /></p>
     
 # Unity-my-works
 
@@ -44,17 +44,17 @@ This repository is the collection of my unity works. Some of them need some sett
   1-Screenshots of 2D Game scene and animation CET 341 hw
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/2D Game scene and animation CET 341 hwss/2D Game scene and animation CET 341 hwss1.jpg" alt="2D Game scene and animation CET 341 hw" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/2D Game scene and animation CET 341 hwss/2D Game scene and animation CET 341 hwss1.jpg" alt="2D Game scene and animation CET 341 hw" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
  2-Screenshots of AliErenKayhanCET372Homework1exports
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss1.jpg" alt="AliErenKayhanCET372Homework1exports" width ="400" height = "300" /></p></td>
-         <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss2.jpg" alt="AliErenKayhanCET372Homework1exports" width ="400" height = "300" /></p></td>
-          <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss3.jpg" alt="AliErenKayhanCET372Homework1exports" width ="400" height = "300" /></p></td>
-              <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss4.jpg" alt="AliErenKayhanCET372Homework1exports" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss1.jpg" alt="AliErenKayhanCET372Homework1exports" width ="100%" height = "auto" /></p></td>
+         <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss2.jpg" alt="AliErenKayhanCET372Homework1exports" width ="100%" height = "auto" /></p></td>
+          <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss3.jpg" alt="AliErenKayhanCET372Homework1exports" width ="100%" height = "auto" /></p></td>
+              <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework1exportsss/AliErenKayhanCET372Homework1exportsss4.jpg" alt="AliErenKayhanCET372Homework1exports" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
@@ -62,7 +62,7 @@ This repository is the collection of my unity works. Some of them need some sett
  3-Screenshots of AliErenKayhanCET372Homework2
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework2ss/AliErenKayhanCET372Homework2ss1.jpg" alt="AliErenKayhanCET372Homework2" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/AliErenKayhanCET372Homework2ss/AliErenKayhanCET372Homework2ss1.jpg" alt="AliErenKayhanCET372Homework2" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
@@ -70,7 +70,7 @@ This repository is the collection of my unity works. Some of them need some sett
  4-Screenshots of Hw3WasteCollect
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Hw3WasteCollectss/Hw3WasteCollectss1.jpg" alt="Hw3WasteCollect" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Hw3WasteCollectss/Hw3WasteCollectss1.jpg" alt="Hw3WasteCollect" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
    
@@ -78,28 +78,28 @@ This repository is the collection of my unity works. Some of them need some sett
   5-Screenshots of CubeWorld
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss1.jpg" alt="CubeWorld" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss2.jpg" alt="CubeWorld" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss3.jpg" alt="CubeWorld" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss1.jpg" alt="CubeWorld" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss2.jpg" alt="CubeWorld" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/CubeWorldss/CubeWorldss3.jpg" alt="CubeWorld" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
  6-Screenshots of NoPass
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/NoPassss/NoPassss1.jpg" alt="NoPass" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/NoPassss/NoPassss1.jpg" alt="NoPass" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
   
  7-Screenshots of Who
   <table> 
     <tr>
-        <td>  <img align="left" src="screenshots/Whoss/Whoss1.jpg" alt="Who" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Whoss/Whoss2.jpg" alt="Who" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Whoss/Whoss1.jpg" alt="Who" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Whoss/Whoss2.jpg" alt="Who" width ="100%" height = "auto" /></p></td>
     </tr>
     <tr>
-        <td>  <img align="left" src="screenshots/Whoss/Whoss3.jpg" alt="Who" width ="400" height = "300" /></p></td>
-        <td>  <img align="left" src="screenshots/Whoss/Whoss4.jpg" alt="Who" width ="400" height = "300" /></p></td>
+        <td>  <img align="left" src="screenshots/Whoss/Whoss3.jpg" alt="Who" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="screenshots/Whoss/Whoss4.jpg" alt="Who" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
    
