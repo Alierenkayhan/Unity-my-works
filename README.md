@@ -4,17 +4,31 @@
 
 <div align="center">
     
+ 
 ![GitHub watchers](https://img.shields.io/github/watchers/Alierenkayhan/Unity-my-works?style=social)   
+![GitHub forks](https://img.shields.io/github/forks/Alierenkayhan/Unity-my-works?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Alierenkayhan/Unity-my-works?style=social)
+ 
+[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Unity-my-works)](https://github.com/Alierenkayhan/Unity-my-works/blob/main/LICENSE)    
+ 
 [![GitHub issues:](https://img.shields.io/github/issues/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/issues/Alierenkayhan/Unity-my-works)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Alierenkayhan/Unity-my-works)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Alierenkayhan/Unity-my-works)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/Alierenkayhan/Unity-my-works) 
 [![GitHub forks:](https://img.shields.io/github/forks/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/forks/Alierenkayhan/Unity-my-works)
 [![GitHub stars:](https://img.shields.io/github/stars/Alierenkayhan/Unity-my-works)](https://img.shields.io/github/stars/Alierenkayhan/Unity-my-works)
-[![GitHub license](https://img.shields.io/github/license/Alierenkayhan/Unity-my-works)](https://github.com/Alierenkayhan/Unity-my-works/blob/main/LICENSE)    
-![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Unity-my-works/total)
+![GitHub search hit counter](https://img.shields.io/github/search/Alierenkayhan/Unity-my-works/goto)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Alierenkayhan/Unity-my-works)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Alierenkayhan/Unity-my-works)
 ![Sourcegraph for Repo Reference Count](https://img.shields.io/sourcegraph/rrc/Unity-my-works)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Alierenkayhan/Unity-my-works)
- 
-     
+![GitHub top language](https://img.shields.io/github/languages/top/Alierenkayhan/Unity-my-works) 
+
+![GitHub all releases](https://img.shields.io/github/downloads/Alierenkayhan/Unity-my-works/total)
+ <a href="https://github.com/Alierenkayhan/Unity-my-works/archive/refs/heads/main.zip">
+<img src="https://img.shields.io/badge/Download-Project-blue" /></a>
+  
 </div>
 
 
